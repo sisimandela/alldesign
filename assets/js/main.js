@@ -147,10 +147,10 @@
     loop: true,
     responsive: {
       0: {
-        items: 1.75
+        items: 2
       },
       768: {
-        items: 1.85
+        items: 2
       },
       900: {
         items: 2
